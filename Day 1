@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .autumn{
+            border-radius: 50% 0;
+            box-shadow:20px 20px 20px rgb(144, 182, 238);
+        }
+    </style>
+</head>
+<body>
+    <h1>Hello Rahul</h1>
+    <h2>Hello Gupta</h2>
+    <h3>Hello Bro</h3>
+    <!---Img Uploded-->
+    <img class="autumn" src="https://images.pexels.com/photos/28374835/pexels-photo-28374835/free-photo-of-scenic-pathway-through-italian-countryside-landscape.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width="100px" height="100px"/>
+    <img class="autumn" src="https://images.pexels.com/photos/28374835/pexels-photo-28374835/free-photo-of-scenic-pathway-through-italian-countryside-landscape.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width="200px" height="200px"/>
+    <img class="autumn" src="https://images.pexels.com/photos/29499570/pexels-photo-29499570/free-photo-of-charming-venetian-canal-scene-with-bridge.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width="300px" height="300px"/>
+    <img class="autumn" src="https://images.pexels.com/photos/28374835/pexels-photo-28374835/free-photo-of-scenic-pathway-through-italian-countryside-landscape.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width="200px" height="200px"/>
+    <img class="autumn" src="https://images.pexels.com/photos/28374835/pexels-photo-28374835/free-photo-of-scenic-pathway-through-italian-countryside-landscape.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="" width="100px" height="100px"/>
+    <br>
+    <br>
+<!---Direct link-->
+
+<a href="https://www.amazon.in/" target="_blank">AMAZON Online Shopping</a>
+<br>
+<br>
+<form action="">
+    <label for="Name">Name:</label>
+    <input type="text">
+    <br>
+    <br>
+    <label for="E-mail">E-mail:</label>
+    <input type="E-mail">
+    <br>
+    <br>
+    <label for="Password">Password:</label>
+    <input type="Password">
+    <br>
+    <br>
+    <label for="DOB">Date of Birth</label>
+    <input type="date" name="" id="">
+    <br>
+    <br>
+    <label for="">Enter your massage</label>
+    <textarea name="" id=""></textarea>
+</form>
+
+<!---Subscript & Superscript-->
+
+<h1>H<sub>2</sub>SO<sub>4</sub></h1>
+<h1>10<sup>6</sup></h1>
+<br>
+
+<!---Paragraph writing-->
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cupiditate quasi beatae magni officiis minus veniam illo fugit, consequatur, error ratione ipsa facere et nostrum! Quis sed beatae magni reiciendis odio.
+Molestias illum quibusdam at adipisci vitae accusamus numquam labore ullam aliquid sunt voluptas iusto debitis, distinctio quis nam explicabo officia ipsum vero? Ex corporis sunt nulla iste recusandae quod ratione.
+Illo pariatur nisi modi! Corporis, dolorum tenetur reprehenderit id, inventore nobis quia rerum eligendi laboriosam voluptatum a libero! Inventore voluptatibus asperiores culpa laborum repellat est vitae neque dignissimos, ipsa ratione.
+Quas dolor, repellat ducimus dignissimos harum sed iusto, quam sequi accusantium sunt ipsa omnis ad totam modi voluptatum similique dolorum magnam explicabo rerum aliquam atque quia, minus perspiciatis alias? Fugit.
+Esse, id reprehenderit? Doloribus, autem sint. Dolor veritatis doloribus itaque est amet necessitatibus rem labore molestiae deleniti id quisquam repellat esse, ipsam totam dicta corporis eos recusandae? Illum, sed. Ullam?
+Voluptatibus, maiores? Inventore est ad ab necessitatibus eligendi modi reiciendis quos laborum harum minima? Corporis, impedit doloremque doloribus commodi deserunt illum ipsam ullam, expedita blanditiis provident est unde, repellendus aliquid!
+Soluta voluptatem, voluptatum labore dolorem molestias corporis obcaecati quidem quam natus illum, accusamus sunt cumque doloribus. Provident ea, similique, sit nihil ab iure asperiores neque adipisci explicabo, quis quasi dolorem.
+Praesentium repellat ea perferendis saepe numquam quia minus ratione illum nostrum fugit veniam ab laudantium quasi error, aspernatur, dignissimos maiores fuga eveniet accusamus sit culpa deserunt consectetur, exercitationem esse. Explicabo?
+Eius soluta laboriosam officiis aperiam similique dignissimos hic optio, debitis necessitatibus doloribus sapiente officia vel ipsa, atque velit. Nulla nobis eius tempora reprehenderit harum, ipsum inventore placeat? Eos, ab amet.
+Ducimus doloribus soluta magni? Officiis dignissimos ex atque enim quod deleniti sint cumque iste ullam facere molestias eum minus architecto maiores magnam, harum impedit eligendi esse! Illum nobis veritatis quaerat?
+Soluta atque, nemo sapiente eaque illo officiis corporis vero ducimus modi temporibus quaerat molestiae iste velit, iure ratione doloribus mollitia? Aut voluptates quod illo nulla reiciendis nesciunt, distinctio harum nemo.
+Voluptate repellendus et, dolore reiciendis iste officia natus asperiores fugit! Quam neque soluta laboriosam officia nostrum quos ab dolores corrupti tempora qui sit incidunt minus, amet possimus cupiditate est praesentium!
+Pariatur eveniet dicta, enim quisquam architecto ipsum atque, rerum porro voluptatum sit doloribus aspernatur provident! Non molestias accusantium excepturi labore laborum! Recusandae, labore perferendis quis molestias accusamus nihil cumque. Reprehenderit?
+Maxime voluptatum repudiandae ex itaque molestiae dolorem, corporis repellat adipisci labore at, commodi dolorum? Provident magni suscipit sunt sed consectetur eum consequatur dolorem illum sequi tempore, laboriosam doloremque ex tenetur!
+Debitis sed fugit iste culpa commodi, est minima voluptates hic ea ab eum ut tempora velit, facere eos maxime natus similique aut vero sapiente ex ipsam odit ratione nam! Provident.
+Quidem dolores sed soluta quia labore ratione aspernatur, earum aliquid. Sequi quam architecto ipsa deserunt veritatis quo veniam vitae, excepturi, obcaecati iusto consequuntur? Harum cumque qui earum, rerum blanditiis magnam.
+Laborum soluta quaerat qui officiis quae aperiam cupiditate placeat corrupti, quos nisi quasi. Dolores aspernatur iste minus animi harum, accusantium aliquam. Soluta tempore quasi et? Magni necessitatibus eligendi perspiciatis est.
+Quo reiciendis delectus, maxime qui saepe quasi, fugit aliquid nobis veritatis, ipsum facere labore molestiae accusamus! Facere ad vero, dolores veniam ex animi illo quos repellat. Tempore provident facere nesciunt.
+Labore reprehenderit ab perferendis ratione, ipsum vero beatae deleniti, possimus est dolore suscipit? Libero, officia minima, unde nostrum deserunt ea veritatis ipsa fugiat fugit quisquam similique iusto quibusdam, repudiandae voluptates!
+Iusto nisi, nulla blanditiis repellendus nostrum voluptatibus reprehenderit in, libero nesciunt voluptatem corporis perferendis cupiditate quae sed minima, quis officiis? Aliquam itaque dolor excepturi similique officia natus neque iste est!</p>
+
+</body>
+</html>
