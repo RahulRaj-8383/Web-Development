@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!--internal css-->
+    <style>
+        .dayName{
+            color: red;
+            background-color: yellow;
+            padding: 10px 30px;
+            border-radius: 10px;
+        }
+        #aboutMe{
+            color: white;
+            background-color: black;
+            border-radius: 20px;
+            padding: 10px 100px;
+        }
+        .productOne{
+            height: 500px;
+            width: 500px;
+            background-color: green;
+            border-radius: 50% 0;
+            border: 10px solid black;
+        }
+    .aboutMe{
+        font-family: 'Times New Roman', Times, serif;
+        color: green;
+        font-size: 24px;
+        background-color: pink;
+        border: 2px 100px;
+        border-radius: 18px;
+        text-transform: capitalize;
+        font-style: italic;
+        font-weight: bold;
+        text-align: right;
+    }
+    </style>
+</head>
+<body>
+    <!--inline css-->
+    <h1 class="dayName" style="background-color: salmon;" >This is day 3</h1>
+    <h2 class="dayName" >Welcome to Web Development Training Class</h2>
+    <h2 id="aboutMe">This is ID</h2>
+
+    <div class="productOne">
+    </div>
+
+    <p class="aboutMe">Lorem ipsum dolor sit amet consectetur adipisicing elit. Alias, earum eveniet. Laudantium, repudiandae. Veniam eaque modi ex nobis quae voluptatibus pariatur saepe repellendus soluta inventore odit fugiat mollitia, accusantium error?
+    Soluta atque nesciunt porro rerum animi voluptas cupiditate odio culpa ratione officiis facere libero recusandae placeat vel architecto, veritatis quia assumenda rem reiciendis, corrupti exercitationem totam necessitatibus. Deserunt, sit velit!
+    Officiis vel eaque dignissimos nulla explicabo consequatur suscipit quisquam. Ea, illum, architecto quos sed, quibusdam excepturi pariatur maiores cumque fugiat dolore accusantium sequi a! Eaque quasi quaerat reiciendis itaque cupiditate.
+    Accusantium nam quidem nobis dolor reprehenderit harum illo quod quibusdam delectus repellat, debitis, quae quaerat exercitationem odit, enim amet nulla ea ipsa voluptates. Quae quibusdam eius laborum consequuntur quo? Aspernatur?
+    Harum, itaque deleniti. Hic libero laudantium sunt quidem iusto rem vel? Officiis ullam dolor, sequi atque facilis distinctio? Nulla odio magni sit ab, officiis quidem ex vero tempore cumque quo?
+    Sit voluptatibus enim ex. Quia doloremque quisquam, delectus labore dolor reiciendis pariatur accusantium voluptatem. Consectetur earum necessitatibus ad voluptatem unde quae. Quia quam quisquam possimus adipisci, modi nulla! Dolorum, non!
+    Doloribus laudantium dolores dolorum quod ab eos, repellat, deleniti aperiam, qui explicabo excepturi adipisci expedita voluptas voluptate earum. Odio laboriosam quasi commodi soluta maiores similique impedit earum ut, perferendis quis!
+    Fugiat alias, asperiores ullam unde autem eos sapiente assumenda sequi adipisci? Quidem aperiam sint ipsam consequuntur officiis praesentium saepe, magnam distinctio porro numquam voluptates est eveniet rerum nihil neque assumenda!
+    Temporibus ex hic minus nobis. Nostrum assumenda, earum odit recusandae itaque quia maiores non, illo quos sequi quam doloremque deserunt doloribus cupiditate minus et a alias nemo distinctio dolorum! Voluptates?
+    Excepturi quibusdam culpa vitae corrupti quos possimus adipisci tempore sunt, sequi nisi ducimus expedita magni sit necessitatibus vel! Totam nobis, nihil obcaecati modi fugiat nulla in ea amet laborum nostrum.</p>
+    
+</body>
+</html>
