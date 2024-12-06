@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+       .nameline{
+        background-color: green;
+        padding: 10px 20px;
+        font-size: 34px;
+        color: red;
+       }
+       .name{
+        color: skyblue;
+        font-family: cursive;
+        font-size: 54px;
+       }
+    </style>
+</head>
+<body>
+    <marquee behavior="" direction=""><h1 id="aboutMe">My name is <span class="name">Rahul Kumar</span></h1></marquee>
+
+</body>
+</html>
