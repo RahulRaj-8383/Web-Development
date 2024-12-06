@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        #box{
+            height: 300px;
+            width: 300px;
+            background-color: gray;
+            box-shadow: 10px 10px 100px 20px salmon;
+            border-radius: 50%;
+        }
+        .section{
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            gap: 100px;
+        }
+        
+    </style>
+</head>
+<body>  
+    
+    <div class="section">
+
+        <div id="box" draggable="true">
+            
+        </div>
+    </div>
+    <button>Click Me</button> 
+            <!-- Traffic Light -->
+    <script>
+    
+        const box=()=>{
+            let box=document.getElementById('box')
+
+            box.addEventListener("mouseenter",()=>{
+            box.style.boxShadow="10px 10px 100px 10px red";
+            box.style.backgroundColor="red";
+            })
+
+            box.addEventListener("dblclick",()=>{
+            box.style.boxShadow="10px 10px 100px 10px yellow";
+            box.style.backgroundColor="yellow";
+            })
+            
+            box.addEventListener("dragenter",()=>{
+            box.style.boxShadow="10px 10px 100px 10px green";
+            box.style.backgroundColor="green";
+            })
+           
+           
+        }
+        box()
+    </script>
+</body>
+</html>
