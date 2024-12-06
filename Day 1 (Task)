@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .dayName{
+            color: rgb(0, 187, 255);
+            background-color: blueviolet;
+            padding: 10px 50px;
+            border-radius: 10px;
+        }
+        form{
+            color: aquamarine;
+            background-color: rgb(230, 235, 135);
+            padding: 20px;
+        }
+        label{
+            background-color: rgb(226, 43, 67);
+        }
+        
+
+
+    </style>
+</head>
+<body>
+    
+    <h1 class="dayName" style="background-color: burlywood;" >Studio Rental Application Form</h1>
+    <br>
+    
+    <form action="">
+        <label for="Oraganisation">Organisation</label>
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <label for="Main Contact">Main Contact</label>
+        <br>
+        <input type="text"> <input type="text">
+        <br>
+        <br>
+        <label for="Email Address">Email Address</label>
+        <br>
+        <input type="text">
+        <br>
+        <br>
+        <label for="">Please provide a brief description of your rental request </label>
+        <br>
+        <textarea name="" id=""></textarea>
+        <br>
+        <br>
+        <label for="Start Date">Start Date</label>
+        <br>
+        <input type="date" name="" id="">
+        <br>
+        <br>
+        <label for="End Date">End Date</label>
+        <br>
+        <input type="date" name="" id="">
+
+    </form>
+</body>
+</html>
